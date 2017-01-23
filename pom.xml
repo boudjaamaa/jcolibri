@@ -5,7 +5,9 @@
 	<groupId>jcolibri</groupId>
 	<artifactId>jcolibri</artifactId>
 	<version>2.10.2-SNAPSHOT</version>
-
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
 	<dependencies>
 
 		<dependency>
